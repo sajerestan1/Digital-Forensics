@@ -1,5 +1,7 @@
 # Digital Forensics and Incident Response Unattended
 
+![image](https://github.com/user-attachments/assets/da1475b4-61bd-4fd7-a766-54ef1658cbe3)
+
 ## Project Report: Investigation of Potential Data Exfiltration
 
 ### Task 1: Introduction
